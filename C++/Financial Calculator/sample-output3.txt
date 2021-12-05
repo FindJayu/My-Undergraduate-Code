@@ -1,0 +1,46 @@
+% make run
+Starting Clementine Financial Bank
+******* Welcome to Clementine Financial *********
+
+Menu:
+	[E] Estimate how much money at retirement
+	[L] Loan payoff calculator
+	[R] Run transaction classifier
+	[Q] Quit program
+
+ Enter your choice and press enter: t
+
+******* Welcome to Clementine Financial *********
+
+Menu:
+	[E] Estimate how much money at retirement
+	[L] Loan payoff calculator
+	[R] Run transaction classifier
+	[Q] Quit program
+
+ Enter your choice and press enter: R
+	Please enter the filename: wrongname.txt
+	Opening the file <wrongname.txt>
+Error opening file. Please retry
+	Please enter the filename: transactions.txt
+	Opening the file <transactions.txt>
+Printing Transaction Ledger
+ 10/1/2020 |   Local_Branch |     10000 |          Restaurant
+
+ 10/2/2020 |    Chick-Fil-A |     -7.99 |         Merchandise
+
+ 10/3/2020 |           IHOP |     19.32 |         Merchandise
+
+ 10/4/2020 |    Clemson-ATM |        50 |          Restaurant
+
+Process another transaction register? (y/n): n
+******* Welcome to Clementine Financial *********
+
+Menu:
+	[E] Estimate how much money at retirement
+	[L] Loan payoff calculator
+	[R] Run transaction classifier
+	[Q] Quit program
+
+ Enter your choice and press enter: q
+[Retina-MacBook-Pro:~/desktop/temp/lab3] cplaue% 

@@ -1,0 +1,11 @@
+compile-all:
+	g++ Driver.cpp Card.cpp DeckOfCards.cpp -o run.out
+compile-card:
+	g++ Card.cpp -c
+compile-deck:
+	g++ DeckOfCards.cpp -c
+run:
+	./run.out
+clean:
+	rm *.o
+	rm *.out 
