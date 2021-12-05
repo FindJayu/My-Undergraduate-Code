@@ -1,0 +1,14 @@
+Q: How do you call a general binary relationship that describes an activity between two classes?
+A: Aggregation
+
+Q: What do you use to match, replace, or split strings by specifying a pattern?
+A: Regular Expression
+
+Q: How do you explicitly invoke the no-arg superclass constructor from a subclass?
+A: super();
+
+Q: True or False (T/F): A subclass is a subset of a superclass.
+A: F
+
+Q: Inheritance means that...
+A: A class can extend another class

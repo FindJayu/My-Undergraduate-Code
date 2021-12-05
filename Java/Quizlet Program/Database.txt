@@ -1,0 +1,14 @@
+Q: How do you call a general binary relationship that describes an activity between two classes?
+A: association
+
+Q: Defining multiple methods with the same name as long as their parameter lists are different is called?
+A: overloading
+
+Q: Write a statement that assigns the value true to the first element of the array butterfly.
+A: butterfly[0] = true;
+
+Q: When the return type of a method is an array, it actually returns? 
+A: a reference to the array
+
+Q: True or false (T/F)? Constructors have the return type void.
+A: F

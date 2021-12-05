@@ -1,0 +1,14 @@
+Q: What is special about Exceptions?
+A: Exceptions are objects
+
+Q: How can you write a Throw Exception?
+A: throw new Exception("Message");
+
+Q: When would we use the finally Clause?
+A: To execute a statement regardless if an exception was caught or not
+
+Q: What are rethrown exceptions called?
+A: Chained Exceptions
+
+Q: What do Assertions allow you to do?
+A: Allows you to insert an assumption about your program using Booleans

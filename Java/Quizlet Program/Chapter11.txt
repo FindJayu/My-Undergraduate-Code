@@ -1,0 +1,14 @@
+Q: What does the extends keyword do?
+A: The subclass inherits the superclass attributes
+
+Q: What notation should you use before overriding a method?
+A: @Override
+
+Q: What is the Object Class?
+A: Father Class
+
+Q: What is polymorphism?
+A: Supertype variable refers to a subtype object
+
+Q: When should we use the instanceOf Operator?
+A: To test whether an object is an instance of a certain class
